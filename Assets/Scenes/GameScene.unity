@@ -172,6 +172,7 @@ MonoBehaviour:
   resultText: {fileID: 1643161105}
   winColor: {r: 0, g: 1, b: 0, a: 1}
   loseColor: {r: 1, g: 0, b: 0, a: 1}
+  tieColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   rematchButton: {fileID: 372654753}
 --- !u!1001 &198593968
 PrefabInstance:
